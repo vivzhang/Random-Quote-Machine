@@ -1,0 +1,8 @@
+body {
+  background: url("https://i.ytimg.com/vi/Ok6cSIGTRdA/maxresdefault.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: yellow;
+}
